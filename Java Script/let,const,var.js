@@ -24,3 +24,8 @@ const student ={
     cgpa: 8,
     isPass: true,
 };
+
+// to asign a new value to the existing object
+
+student["age"]=student["age"]+1;
+console.log(student["age"]);
