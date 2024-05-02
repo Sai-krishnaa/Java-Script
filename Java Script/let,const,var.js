@@ -16,4 +16,11 @@ console.log(a);
     let a=5;
     console.log(a); //block
 }
+// object is a collection of values
 
+const student ={
+    fullName: "Rahul",
+    age: 20,
+    cgpa: 8,
+    isPass: true,
+};
