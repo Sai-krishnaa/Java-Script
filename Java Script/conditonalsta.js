@@ -14,7 +14,7 @@ if(mode==="light"){
 
 console.log(color);
 
-//ifelse statement
+//if-else statement
 
 let num=21;
 
@@ -25,7 +25,7 @@ if(num%2==0){
 }
 
 
-//if-else statement
+//else-if statement
 
 let number=15;
 
