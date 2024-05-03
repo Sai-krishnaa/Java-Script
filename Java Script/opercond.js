@@ -27,3 +27,19 @@ c+=4;//c=c+4
 d-=3;//d=d-3
 console.log("c=",c);
 console.log("d=",d);
+
+//Comparison operator
+let e=5;
+let f=2;
+let g="6";
+
+console.log("5==6",e==f);//Equal to(==)
+console.log("5!=2",e!=f);//Not equal to(!=)
+
+console.log("e===g",e===g);//Equal to and its also checks the data type(===)
+console.log("e!==g",e!==g);//Not equal to and its also check the data type(!==)
+
+console.log("e>f",e>f);
+console.log("e>=f",e>=f);
+console.log("e<f",e<f);
+console.log("e<=f",e<=f);
