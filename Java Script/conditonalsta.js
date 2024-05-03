@@ -36,3 +36,4 @@ if(number>10){
 } else{
     console.log("Number is equal to 10");
 }
+
