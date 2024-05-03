@@ -17,3 +17,13 @@ a++;//increment
 b--;//decrement
 console.log("a=",a);
 console.log("b=",b);
+
+
+// Assignment operator
+let c=4;
+let d=5;
+
+c+=4;//c=c+4 
+d-=3;//d=d-3
+console.log("c=",c);
+console.log("d=",d);
