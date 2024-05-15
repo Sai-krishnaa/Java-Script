@@ -10,9 +10,8 @@
  //example of template literals
 
  let obj={
-    item:"Pen",
-    price: 20,
+   item : "Pen",
+   price :50,
  } 
-
- let output=`The cost of ${obj.item} is ${obj.price} rupees`;
- console.log(output)
+ let output= `The cost of ${obj.item} is ${obj.price} rupees`;
+ console.log(output);      
